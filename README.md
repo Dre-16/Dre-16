@@ -13,6 +13,6 @@
 
 ##
 
-![Snake animation](https://github.com/rafaballerini/Dre-16/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dre-16/Dre-16/blob/output/github-contribution-grid-snake.svg)
 
 </div>
